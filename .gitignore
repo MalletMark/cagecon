@@ -1,8 +1,11 @@
 .vscode/
-bin/**
-obj/Debug/**
+[Bb]in/
+[Oo]bj/
 
 *.dll
 *.cache
 *.pdb
+obj/Debug/netcoreapp2.1/CageCon.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp2.1/CageCon.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp2.1/CageCon.csproj.FileListAbsolute.txt
 *.pdb

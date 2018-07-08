@@ -13,5 +13,11 @@ namespace CageCon.Controllers
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult Charity1()
+        {
+            return View();
+        }
     }
 }

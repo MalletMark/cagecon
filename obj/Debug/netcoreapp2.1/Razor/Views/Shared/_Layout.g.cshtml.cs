@@ -44,7 +44,7 @@ namespace AspNetCore
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(35, 939, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5f4df35e84924440a483e969438d2c4b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1c40404a42504d9590d5f4cad6caf363", async() => {
                 BeginContext(41, 181, true);
                 WriteLiteral("\r\n    <title>Cage Con</title>\r\n    <meta charset=\"utf-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    \r\n    <!-- Bootstrap core CSS -->\r\n    <link");
                 EndContext();
@@ -109,7 +109,7 @@ WriteAttributeValue("", 906, Url.Content("~/css/freelancer.min.css"), 906, 40, f
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(976, 5057, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "74090161dbdb4599825986048341787a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "09069e76401e4d4dbc054d849a74f600", async() => {
                 BeginContext(996, 1710, true);
                 WriteLiteral(@"
 

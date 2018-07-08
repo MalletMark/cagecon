@@ -1,0 +1,15 @@
+{
+    "deploy": {
+        "targets": [
+            {
+                "type": "sftp",
+                "name": "Vulture2",
+                "description": "A SFTP folder",
+
+                "dir": "/var/aspnetcore/CageCon",
+                "host": "104.238.130.83", "port": 22,
+                "user": "root", "password": "9f)RM}qpe9e*sNM2"
+            }
+        ]
+    }
+}

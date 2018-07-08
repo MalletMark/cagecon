@@ -1,6 +1,8 @@
 .vscode/
 bin/**
-obj/**
+obj/Debug/**
 
 *.dll
 *.cache
+*.pdb
+*.pdb

@@ -22,3 +22,6 @@ c:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\CageCon.RazorTargetAssemblyI
 c:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\CageCon.Views.pdb
 c:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\CageCon.csproj.CopyComplete
 c:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\DND\Index.g.cshtml.cs
+C:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DNDLayout.g.cshtml.cs
+C:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\DND\Teams.g.cshtml.cs

@@ -22,3 +22,6 @@ C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\CageCon.Views.pdb
 C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\CageCon.dll
 C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\CageCon.pdb
 C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\CageCon.csproj.CopyComplete
+C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\Razor\Views\DND\Index.g.cshtml.cs
+C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\Razor\Views\DND\Teams.g.cshtml.cs
+C:\Projects\CageCon\CageCon\obj\Release\netcoreapp2.1\Razor\Views\Shared\_DNDLayout.g.cshtml.cs

@@ -2,3 +2,32 @@
   background-image: url("/img/dnd/header-bg.png");
   background-size: cover;
 }
+
+#teamBg {
+  background-image: url(/img/dnd/map_taldorei.jpg);
+  background-position: center center;
+  content: "";
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: fixed;
+  z-index: -1;
+}
+
+.teamSection {
+  position: relative;
+}
+
+.teamSection::after {
+  content: "";
+  background-color: white;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}

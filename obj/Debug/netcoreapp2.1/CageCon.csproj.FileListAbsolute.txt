@@ -25,3 +25,4 @@ c:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g
 C:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\DND\Index.g.cshtml.cs
 C:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DNDLayout.g.cshtml.cs
 C:\Projects\CageCon\CageCon\obj\Debug\netcoreapp2.1\Razor\Views\DND\Teams.g.cshtml.cs
+C:\Projects\CageCon\cagecon\obj\Debug\netcoreapp2.1\Razor\Views\Home\Charity1.g.cshtml.cs

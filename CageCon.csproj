@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="npgsql" Version="4.0.2" />
+    <PackageReference Include="npoco" Version="3.9.4" />
   </ItemGroup>
 
 </Project>

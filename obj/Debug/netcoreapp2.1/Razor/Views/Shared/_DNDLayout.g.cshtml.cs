@@ -44,7 +44,7 @@ namespace AspNetCore
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(35, 1001, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fdcbc87ed7374a679e0fb66745a7b59f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4e78647c91514ff9b8e8c330b23a20e9", async() => {
                 BeginContext(41, 181, true);
                 WriteLiteral("\r\n    <title>Cage Con</title>\r\n    <meta charset=\"utf-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n    \r\n    <!-- Bootstrap core CSS -->\r\n    <link");
                 EndContext();
@@ -119,7 +119,7 @@ WriteAttributeValue("", 972, Url.Content("~/css/dnd_lancer.css"), 972, 36, false
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(1038, 4607, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3af8d23cb9f54abe90c01602df6b785a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f4cc2d084a5b4d73b291ff722c2a6bbc", async() => {
                 BeginContext(1058, 1260, true);
                 WriteLiteral(@"
 

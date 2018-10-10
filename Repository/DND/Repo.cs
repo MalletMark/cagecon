@@ -60,5 +60,10 @@ namespace CageCon.Repository.DND
 
             return team;
         }
+
+        public string getBio(int id)
+        {
+            return db.SingleById<TblCharacter>(id).biofull;
+        }
     }
 }

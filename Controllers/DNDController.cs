@@ -18,21 +18,6 @@ namespace CageCon.Controllers
         [HttpGet]
         public ActionResult Teams(string id = "TSA")
         {
-            // Teams model = new Teams();
-            // model.teamName = "Taldorei Service Agency";
-            // model.photoUrl = "/img/dnd/TSA_Logo.png";
-
-            // model.characters = new List<Teams.Character>()
-            // {
-            //     new Teams.Character() { id = 1, name = "Derek", photoUrl = "/img/dnd/derek.png", bio = "story 1" },
-            //     new Teams.Character() { id = 2, name = "Bordir", photoUrl = "/img/dnd/bordir.png", bio = "story 1" },
-            //     new Teams.Character() { id = 3, name = "Tho'Kit", photoUrl = "/img/dnd/thokit.png", bio = "story 1" },
-            //     new Teams.Character() { id = 4, name = "Torrig", photoUrl = "/img/dnd/torrig.png", bio = "story 1" },
-            //     new Teams.Character() { id = 5, name = "Erryn", photoUrl = "/img/dnd/erryn.png", bio = "story 1" }
-            // };
-
-            // return View(model);
-
             Repository.DND.Repo repo = new Repository.DND.Repo();
             Teams model = repo.GetTeamByShortName(id);
             return View(model);
@@ -44,5 +29,13 @@ namespace CageCon.Controllers
             Repository.DND.Repo repo = new Repository.DND.Repo();
             return repo.GetTeamById(id).teamName;
         }
+
+        [HttpGet]
+        public ActionResult<string> GetBio(int id)
+        {
+            Repository.DND.Repo repo = new Repository.DND.Repo();
+            return repo.getBio(id);
+        }
+
     }
 }
